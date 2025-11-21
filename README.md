@@ -1,6 +1,6 @@
 ### Dia duit ☘️
 
-My name is Conor. I'm a developer interested in the iOS and gaming spaces. I'm passionate about building *engaging* stuff *efficiently*.
+My name is Conor.
 
 🚀 Right now, I'm focusing on building SDKs at [Intercom](https://intercom.com).
 
